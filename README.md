@@ -61,10 +61,11 @@ There is a positive correlation between bed count and price, especially for larg
 
 Most guests prefer private full-unit stays, but a substantial portion still chooses private rooms (likely for cost savings).
 
+![Dashboard Preview]/blob/main/Screenshot%20(126).png
 
 
 
-
+https://github.com/akshata0/AIRBNB_US/blob/main/Screenshot%20(126).png
 
 
 
